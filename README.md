@@ -1,1 +1,13 @@
 # International-Mobility
+<h1 align="center">Introduction</h1>
+<P>Studying abroad also provides students with the opportunity to develop independence, self-reliance, and resilience. While living and studying abroad can be difficult, it also presents a rare opportunity to step outside of one's comfort zone and develop adaptability skills. Employers who are looking for candidates with a global mindset and cross-cultural communication skills highly value this kind of experience. Additionally, studying abroad can broaden one's horizons and enable them to adopt new viewpoints on the world. Students can develop a deeper understanding of various traditions, viewpoints, and ethical principles by becoming fully immersed in another culture. 
+Students who are exposed to diversity may develop greater tolerance, openness, and empathy.. At ESPRIT, we think that giving our students the chance to study abroad is crucial to their development both personally and professionally. That is the reason we have worked so hard to form alliances with esteemed universities all over the world. Our students can benefit from distinctive academic opportunities, encounter new cultures and ways of thinking, and widen their professional networks thanks to these collaborations. We are happy that 71 of our students are currently studying abroad, and we are dedicated to giving them even more chances to realize their goals and aspirations. Our students can accomplish great things both during and after their time at ESPRIT with effort, commitment, and a readiness to take chances.</P>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+ <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+</P>
+
